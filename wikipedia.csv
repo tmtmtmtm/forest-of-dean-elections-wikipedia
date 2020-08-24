@@ -1,0 +1,79 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q478276,Mark Harper,Q9626,Conservative Party (UK),30680,Q30173038,General election 2019,1
+,Di Martin,Q6467393,Labour Co-operative,14811,Q30173038,General election 2019,2
+,Chris McFarling,Q9669,Green Party of England and Wales,4681,Q30173038,General election 2019,3
+,Julian Burrett,Q327591,Independent politician,1303,Q30173038,General election 2019,4
+Q478276,Mark Harper,Q9626,Conservative Party (UK),28096,Q25052149,General election 2017,1
+,Shaun Stammers,Q9630,Labour Party (UK),18594,Q25052149,General election 2017,2
+,Janet Ellard,Q9624,Liberal Democrats (UK),2029,Q25052149,General election 2017,3
+,James Greenwood,Q9669,Green Party of England and Wales,1241,Q25052149,General election 2017,4
+,Ernie Warrender,Q10647,UK Independence Party,1237,Q25052149,General election 2017,5
+,Julian Burrett,Q327591,Independent politician,570,Q25052149,General election 2017,6
+Q478276,Mark Harper,Q9626,Conservative Party (UK),23191,Q3586935,General election 2015,1
+,Steve Parry-Hearn,Q9630,Labour Party (UK),12204,Q3586935,General election 2015,2
+,Steve Stanbury,Q10647,UK Independence Party,8792,Q3586935,General election 2015,3
+,James Greenwood,Q9669,Green Party of England and Wales,2703,Q3586935,General election 2015,4
+,Christopher Coleman,Q9624,Liberal Democrats (UK),2630,Q3586935,General election 2015,5
+Q478276,Mark Harper,Q9626,Conservative Party (UK),22853,Q215622,General election 2010,1
+,Bruce Hogan,Q9630,Labour Party (UK),11789,Q215622,General election 2010,2
+,Christopher Coleman,Q9624,Liberal Democrats (UK),10676,Q215622,General election 2010,3
+Q7803341,Tim Congdon,Q10647,UK Independence Party,2522,Q215622,General election 2010,4
+,James Greenwood,Q9669,Green Party of England and Wales,923,Q215622,General election 2010,5
+Q478276,Mark Harper,Q9626,Conservative Party (UK),19474,Q428598,General election 2005,1
+,Isabel Owen,Q9630,Labour Party (UK),17425,Q428598,General election 2005,2
+,Christopher Coleman,Q9624,Liberal Democrats (UK),8185,Q428598,General election 2005,3
+,Patricia Hill,Q10647,UK Independence Party,1140,Q428598,General election 2005,4
+,Stephen Tweedie,Q9669,Green Party of England and Wales,991,Q428598,General election 2005,5
+,Anthony Reeve,Q327591,Independent (politician),300,Q428598,General election 2005,6
+,Gerald Morgan,Q2479228,English Democrats Party,125,Q428598,General election 2005,7
+Q5271257,Diana Organ,Q9630,Labour Party (UK),19350,Q590740,General election 2001,1
+Q478276,Mark Harper,Q9626,Conservative Party (UK),17301,Q590740,General election 2001,2
+,David Gayler,Q9624,Liberal Democrats (UK),5762,Q590740,General election 2001,3
+,Simon Pickering,Q9669,Green Party of England and Wales,1254,Q590740,General election 2001,4
+,Allen Prout,Q10647,UK Independence Party,661,Q590740,General election 2001,5
+,Gerald Morgan,Q327591,Independent (politician),279,Q590740,General election 2001,6
+Q5271257,Diana Organ,Q9630,Labour Party (UK),24203,Q918503,General election 1997,1
+Q13529988,Paul Marland,Q9626,Conservative Party (UK),17860,Q918503,General election 1997,2
+,Anthony Lynch,Q9624,Liberal Democrats (UK),6165,Q918503,General election 1997,3
+,Dominic Hopkins,Q278315,Referendum Party,1624,Q918503,General election 1997,4
+,Gerald Morgan,Q327591,Independent (politician),218,Q918503,General election 1997,5
+,Colin Palmer,Q327591,Independent (politician),80,Q918503,General election 1997,6
+,Stephen Porter,Q327591,Independent (politician),34,Q918503,General election 1997,7
+Q6911814,M. Philips Price,Q9630,Labour Party (UK),19721,Q918397,General election 1945,1
+,John Brown,Q327591,Independent politician,10529,Q918397,General election 1945,2
+Q6911814,M. Philips Price,Q9630,Labour Party (UK),16768,Q918378,General election 1935,1
+Q15998183,John Worthington,Q2184291,National Labour Party (UK),12337,Q918378,General election 1935,2
+Q15998183,John Worthington,Q2184291,National Labour Party (UK),14815,Q918375,General election 1931,1
+Q16023329,David Vaughan,Q9630,Labour Party (UK),13291,Q918375,General election 1931,2
+Q16023329,David Vaughan,Q9630,Labour Party (UK),13976,Q517639,General election 1929,1
+,William Mitchell-Cotts,Q9626,Unionist Party (UK),7092,Q517639,General election 1929,2
+,Joseph W Westwood,Q622441,Liberal Party (UK),5738,Q517639,General election 1929,3
+Q4647488,A. A. Purcell,Q9630,Labour Party (UK),11629,Q16896817,1925 Forest of Dean by-election,1
+Q6828520,Michael Beaumont,Q9626,Unionist Party (UK),8607,Q16896817,1925 Forest of Dean by-election,2
+,W.H. West,Q622441,Liberal Party (UK),3774,Q16896817,1925 Forest of Dean by-election,3
+Q16031134,James Wignall,Q9630,Labour Party (UK),11048,Q2632991,1924 general election,1
+Q6828520,Michael Beaumont,Q9626,Unionist Party (UK),9739,Q2632991,1924 general election,2
+Q16031134,James Wignall,Q9630,Labour Party (UK),11486,Q3084294,1923 general election,1
+,Augustus Dinnick,Q9626,Unionist Party (UK),7383,Q3084294,1923 general election,2
+Q16031134,James Wignall,Q9630,Labour Party (UK),10820,Q3084303,1922 general election,1
+,Augustus Dinnick,Q6016507,Independent Conservative,5976,Q3084303,1922 general election,2
+Q8025380,Winifred Coombe Tennant,Q6974098,"National Liberal Party (UK, 1922)",3861,Q3084303,1922 general election,3
+Q16031134,James Wignall,Q9630,Labour Party (UK),9731,Q3042701,General election 1918,1
+Q7527221,Henry Webb,Q622441,Liberal Party (UK),5765,Q3042701,General election 1918,2
+Q7527221,Henry Webb,Q622441,Liberal Party (UK),6174,Q5469165,1911 Forest of Dean by-election,1
+,David Hope Kyd,Q9626,Conservative Party (UK),3106,Q5469165,1911 Forest of Dean by-election,2
+Q338114,Charles Dilke,Q622441,Liberal Party (UK),5544,Q3076583,General election December 1910,1
+,David Hope Kyd,Q9626,Conservative Party (UK),2820,Q3076583,General election December 1910,2
+Q338114,Charles Dilke,Q622441,Liberal Party (UK),6141,Q3075752,General election January 1910,1
+,John Henry Renton,Q9626,Conservative Party (UK),3279,Q3075752,General election January 1910,2
+Q338114,Charles Dilke,Q622441,Liberal Party (UK),4972,Q918358,General election 1900,1
+,H Terrell,Q9626,Conservative Party (UK),2520,Q918358,General election 1900,2
+Q338114,Charles Dilke,Q622441,Liberal Party (UK),"",Q7888019,General election 1895,1
+Q338114,Charles Dilke,Q622441,Liberal Party (UK),5360,Q7888018,General election 1892,1
+,Maynard Wemyss,Q9626,Conservative Party (UK),2942,Q7888018,General election 1892,2
+Q5576536,Godfrey Samuelson,Q622441,Liberal Party (UK),4286,Q23461853,"By-election, 29 Jul 1887",1
+,Edward Wyndham,Q9626,Conservative Party (UK),2736,Q23461853,"By-election, 29 Jul 1887",2
+Q7787681,Thomas Blake,Q622441,Liberal Party (UK),3822,Q7888016,General election 1886,1
+,Frederick Louis Lucas,Q1754707,Liberal Unionist,2415,Q7888016,General election 1886,2
+Q7787681,Thomas Blake,Q622441,Liberal Party (UK),5143,Q3397257,General election 1885,1
+Q6253068,John Plunkett,Q9626,Conservative Party (UK),2421,Q3397257,General election 1885,2
